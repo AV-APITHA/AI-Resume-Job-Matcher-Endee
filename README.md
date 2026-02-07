@@ -1,1 +1,1 @@
-# AI-Resume-Job-Matcher-Endee
+AI Resume–Job Matching & Ranking System using RAG and Endee Vector Database
