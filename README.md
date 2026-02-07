@@ -70,6 +70,10 @@ https://github.com/AV-APITHA/endee
 4. Run all notebook cells
 5. View ranked resumes and skill gap analysis output
 
+📁 **Sample resume PDFs** are provided in the `sample_resumes/` folder for easy
+testing.  
+These are **dummy resumes created only for demonstration purposes**.
+
 ---
 
 ## 📊 Sample Output
@@ -91,4 +95,5 @@ https://github.com/AV-APITHA/endee
 
 ## 👩‍💻 Author
 AV-APITHA
+
 
