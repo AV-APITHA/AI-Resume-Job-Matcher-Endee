@@ -77,13 +77,18 @@ These are **dummy resumes created only for demonstration purposes**.
 ---
 
 ## 📊 Sample Output
+The system produces the following outputs:
+
 - Ranked list of resumes with match percentage
 - Strong skills identified for each resume
 - Missing skills highlighted for improvement
 
-(Screenshots are available in the `screenshots/` folder)
+### Resume Ranking Output
+![Resume Ranking](screenshots/04_resume_ranking.png)
 
----
+Additional screenshots demonstrating text extraction, embedding creation,
+and skill gap analysis are available in the `screenshots/` folder.
+
 
 ## 🔮 Future Enhancements
 - Streamlit-based web interface
